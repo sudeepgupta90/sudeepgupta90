@@ -10,6 +10,6 @@ Throughout my career, I have been exploring various aspects of Data Products, an
 
 - Data Analytics - generating data and ML models to produce actionable insights
 - ETL - using Big Data technologies/frameworks like (Hadoop, Spark, Hive) to transform data 
-- Data Infrastrcuture - provision of underlying Infrastructure or Platforms with which Data Engineers/Scientists can interact with to
+- Data Infrastrcuture - provision of underlying Infrastructure or Platforms with which Data Engineers/Scientists interact with
 
 You can reach out to me on [twitter](https://twitter.com/sudeepgupta90) or [linkedin](https://www.linkedin.com/in/sudeepgupta90/)
