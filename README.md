@@ -2,14 +2,9 @@
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <p>
-I received my M.Tech in Computer Science (with a major in Data Engineering) from IIIT Delhi, 2014. Born and lived in Delhi for most of my life. Currently, I am working at Farfetch as Senior Infrastructure Engineer.
+I received my M.Tech in Computer Science (with a major in Data Engineering) from IIIT Delhi, 2014. Born and lived in Delhi for most of my life. Currently, I am working at Hotstar as a Staff Site Reliability and Platform Engineer, focused on platform engineering, distributed systems reliability, and cloud infrastructure at scale.
 
-Throughout my career, I have been fortunate to work with the full data stack
-<list>
-<li> Data Analytics - generating data and ML models to produce actionable insights
-<li> ETL - using Big Data technologies/frameworks like (Hadoop, Spark, Hive) to transform data
-<li> and, Data Infrastructure/Platforms - design & develop Data Platforms to enable Data Engineers/Scientists
-</list>
+Throughout my career, I have been fortunate to work across the full data stack — from Data Analytics and ML-driven insights, through ETL with Big Data frameworks like Hadoop, Spark, and Hive, to designing the Data Platforms that power them. That breadth is what I now bring to platform and reliability engineering.
 </p>
 
 <br/>
